@@ -4,7 +4,7 @@
 ---
 
 ### 🔹 **About Me**
-- 🎓 Final-year student at VIT passionate about **Technology and Inovative Ideas**  
+- 🎓 Final-year student at VIT passionate about **Technology and Blockchain and AI**  
 - 💻 Proficient in **Angular, React, Java, Python, JavaScript, and TypeScript**
 - 💻 Familiar in **Golang , nodeJs, ExpressJs, Solidity , Mongodb , C, C++**
 - 🏆 Interested and  passionate about **AI, Blockchain, and Full-Stack Development**
